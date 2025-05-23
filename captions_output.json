@@ -1,0 +1,31 @@
+{
+  "image_path": "image.png",
+  "timestamp": "2025-05-23T11:50:25.817577",
+  "image_size": [
+    1024,
+    1024
+  ],
+  "model_used": "BLIP",
+  "captions": [
+    {
+      "caption": "a robot welding a piece of metal",
+      "caption_id": 1
+    },
+    {
+      "caption": "a robot working on a piece of metal",
+      "caption_id": 2
+    },
+    {
+      "caption": "a robot welding a piece of metal",
+      "caption_id": 3
+    },
+    {
+      "caption": "a robot welding a metal object in a warehouse",
+      "caption_id": 4
+    },
+    {
+      "caption": "a robot is working on a piece of metal",
+      "caption_id": 5
+    }
+  ]
+}
