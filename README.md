@@ -2,6 +2,13 @@
 
 A Python project that generates multiple descriptive captions for any uploaded image using the BLIP (Bootstrapping Language-Image Pre-training) model. This real-world application can be used for content management, accessibility, social media automation, or digital asset organization.
 
+<img src="image.png" width="500" height="400"/>
+
+<img src="json.png" width="300" height="400"/>
+
+![output](output.png)
+
+
 ## Features
 
 - **Universal Image Captioning**: Generate captions for any image content (not limited to predefined categories)
